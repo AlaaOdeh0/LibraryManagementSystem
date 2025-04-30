@@ -31,7 +31,7 @@ This is a simple Java-based Library Management System built using **Object-Orien
 
 1. Clone the repository
 2. Open the project in **Eclipse** as a Java project.
-3. Run the `LibraryApp.java` (or your main class).
+3. Run the `LibraryApp.java`.
 
 
 ## 📁 Project Structure
